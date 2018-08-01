@@ -1,0 +1,138 @@
+body {
+    background-color : #4682B4;
+    text-align : justify;
+    font-family: serif;
+}
+.container{
+    background-color : #000080;
+    margin-top : 30px;
+    font-size : 16px;
+}
+
+.menu_gauche{
+    color : white;
+    width : 20%;
+    height : 1000px;
+    float: left;
+}
+
+.menu_droite{
+    float: left;
+    width : 70%;
+    height : 1200px;
+    background-color : white;
+}
+
+.menu_droite_haut{
+    height : 40%;
+}
+
+.menu_droit_bas{
+    height : 45%;
+}
+
+.menu_droit_gauche{
+    margin-top : 10px;
+    margin-left : 20px;
+    width : 50%;
+    height : 100%;
+    padding : 5px;
+    float : left;
+}
+
+.menu_droit_droit{
+    margin-top : 10px;
+    margin-right : 40px;
+    width : 40%;
+    height : 100%;
+    float : right;
+    padding : 5px;
+}
+
+.menu_bas_haut{
+    margin-left : 20px;
+    margin-right : 40px;
+    border-top : 1px solid #4682B4;
+    border-bottom : 1px solid #4682B4; 
+}
+
+#mon_image{
+    width : 180px;
+    height : 240px;
+    border: 1px solid #4682B4; 
+    padding : 1px;
+    float : right;
+    margin-right : 20px;
+    margin-top : 40px;
+}
+
+.menu_gauche_bas {
+    float : left;
+    margin-left : 0px;
+    width : 100%;
+}
+
+.menu_gauche_bas div{
+     border-bottom : 1px solid;
+     border-top: 1px solid;
+}
+
+.menu_gauche_3 {
+    background-color : #126356;
+    color : #409395;
+    float:left;
+    width : 100%;
+    height : 90%;
+    padding : 6px;
+}
+.soustitre {
+    color : #F5F5F5;
+}
+
+.menu_gauche_bas div a {
+	display:block; 
+	padding:6px 0;
+	text-decoration:none;
+	text-align:left;
+	font-size:14px;
+	color:#FFFFFF;
+    margin-left : 3px;
+}
+
+.menu_gauche_bas div a:hover {
+	color:black;
+	background-color: yellow;
+}
+
+.form {
+    padding : 5px;
+    float : left;
+}
+
+.formation ,.experience{
+    margin-left : 20px;
+    margin-right: 40px;
+    border-bottom : 1px solid #4682B4; 
+}
+
+.formation {
+    border-top : 1px solid #4682B4;
+}
+
+.item {
+    padding : 2px;
+}
+
+.enteteform{
+    background-color : #4682B4;
+    color : white;
+    font-family: Arial;
+}
+footer {
+    clear:both;
+    width: 99%;
+    height: 30px;
+    padding-top: 15px;
+    color : #F5F5F5;
+    text-align : center;
+}
