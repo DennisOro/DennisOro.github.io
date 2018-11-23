@@ -12,23 +12,23 @@ body {
 .menu_gauche{
     color : white;
     width : 20%;
-    height : 1000px;
+    height : 1200px;
     float: left;
 }
 
 .menu_droite{
     float: left;
     width : 70%;
-    height : 1200px;
+    height : 1500px;
     background-color : white;
 }
 
 .menu_droite_haut{
-    height : 40%;
+    height : 30%;
 }
 
 .menu_droit_bas{
-    height : 45%;
+    height : 40%;
 }
 
 .menu_droit_gauche{
