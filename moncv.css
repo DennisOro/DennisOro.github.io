@@ -57,12 +57,12 @@ body {
 }
 
 #mon_image{
-    width : 40%;
-    height : 40%;
-    border: 1px solid #4682B4; 
+    width : 140px;
+    height : 180px;
+    border: 2px solid #4682B4;
     padding : 1px;
     float : right;
-    margin-right : 20px;
+    margin-right : 100px;
     margin-top : 40px;
 }
 
@@ -108,7 +108,7 @@ body {
     float : left;
 }
 
-.formation ,.experience{
+.formation ,.experience, .workExperience{
     margin-left : 20px;
     margin-right: 40px;
     border-bottom : 1px solid #4682B4; 
