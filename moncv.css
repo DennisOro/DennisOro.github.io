@@ -127,6 +127,12 @@ body {
     color : white;
     font-family: Arial;
 }
+
+.scroll_down ul li a:hover {
+    background-color: #4682B4;
+    color: white;
+    transition: transform .9s; /* Animation */
+}
 footer {
     clear:both;
     width: 99%;
