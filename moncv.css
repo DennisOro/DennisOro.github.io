@@ -16,14 +16,16 @@ body {
     float: left;
 }
 
-.menu_droite{
+.menu_droit{
     float: left;
     width : 70%;
     height : 1500px;
     background-color : white;
+    font-family : Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    
 }
 
-.menu_droite_haut{
+.menu_droit_haut{
     height : 30%;
 }
 
